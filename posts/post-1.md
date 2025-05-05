@@ -1,12 +1,1 @@
-This is my first anonymous post. I'm writing this without revealing my identity.
-
-The beauty of this system is that it works completely client-side, with all content being static. No server logs, no databases to track me.
-
-Using GitHub Pages with proper precautions means I can express my thoughts freely.
-
-## Security Features I'm Using
-
-- TOR Browser for anonymity
-- VPN for an additional layer of protection
-- Static site with no tracking
-- Clean GitHub account not linked to my identity
+I hate people. From the women that told me the child was mind, to the stupid cunts that bother me on a daily basis. I really do love staying at home. Avoiding the world, just quietly paying my bills and not having to talk to anyone. People are just difficult. I often think about her. Even after looking after that kid for a year, putting up with her constant addiction and abuse. She didn't care. It was like she was just more annoyed than anything else. I would like to pull her teeth out, cut her tongue out, burst her eyeballs, pop her eardrums, destroy her voicebox and cut her arms and legs off. I want to take everything away from her but leave her alive. Blind, deaf, mute, and unable to reach for anything or run away. Never knowing if she was alive or dead. Sometimes I imagine walking past an alleyway and seeing her being gang raped and her looking up to see me. I would stare at her silently, and just walk away, with her knowing that her last chance of survival has just walked away from her. Whatever happens to her, I hope it's slow, and very painful. Then theres the other ones. The ones that suddenly wanted me when they found out I was single. They couldn't even wait for me to heal before they decided to come after me. They all just wanted to take their piece. I cut them all off. Fucking vultures. them clammering around with their brats in tow, like I'm going to fix their shitty lives. Just like her. Hands out, wanting me to deal with kids that are not mine. If you didn't want them, you shouldn't have opened your legs. Go back to the real fathers, you cunts.
