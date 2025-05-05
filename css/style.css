@@ -1,0 +1,82 @@
+body {
+    background-color: #000;
+    color: #0f0;
+    font-family: 'Courier New', monospace;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.terminal {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.terminal-header {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #0f0;
+    padding-bottom: 10px;
+}
+
+.terminal-prompt {
+    color: #0f0;
+}
+
+.typing-text {
+    margin-left: 8px;
+    color: #0f0;
+    animation: blink-caret 1s step-end infinite;
+}
+
+@keyframes blink-caret {
+    from, to { border-right: 2px solid transparent; }
+    50% { border-right: 2px solid #0f0; }
+}
+
+.content-container {
+    padding: 15px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #0f0;
+}
+
+.post {
+    margin-bottom: 40px;
+    border-bottom: 1px dashed #0f0;
+    padding-bottom: 20px;
+}
+
+.post-title {
+    margin-bottom: 5px;
+}
+
+.post-date {
+    font-style: italic;
+    margin-bottom: 15px;
+    color: #00aa00;
+}
+
+a {
+    color: #00ff00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+pre, code {
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 3px;
+    padding: 10px;
+    overflow-x: auto;
+}
+
+blockquote {
+    border-left: 3px solid #0f0;
+    padding-left: 15px;
+    margin-left: 0;
+    color: #00aa00;
+}
